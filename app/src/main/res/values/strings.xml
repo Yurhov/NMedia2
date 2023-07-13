@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NMedia</string>
+    <string name="todo">TODO</string>
+    <string name="text">Привяу</string>
 </resources>
